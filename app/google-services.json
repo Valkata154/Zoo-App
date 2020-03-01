@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832243995426",
+    "firebase_url": "https://zoo-app-821c1.firebaseio.com",
+    "project_id": "zoo-app-821c1",
+    "storage_bucket": "zoo-app-821c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832243995426:android:0a420b72092802e9bf0b7b",
+        "android_client_info": {
+          "package_name": "com.example.zooapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832243995426-emvm17o7dug2e01qdtsp3uv91ekb08rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zooapp",
+            "certificate_hash": "177cce3b97bf9e29748d64ba72ca08373ba51f00"
+          }
+        },
+        {
+          "client_id": "832243995426-7fupm6jjv0o6ivtjbqsnghth9av44ec9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpgJ6K1C9h1TG9bwe_1fr-LWOgJs82JJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832243995426-7fupm6jjv0o6ivtjbqsnghth9av44ec9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

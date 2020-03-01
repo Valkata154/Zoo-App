@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background_2"
+    tools:context=".FeedbackActivity">
+
+    <TextView
+        android:id="@+id/rateUs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="105dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="1000dp"
+        android:layout_marginBottom="642dp"
+        android:text="@string/rate_us"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <com.hsalf.smilerating.SmileRating
+        android:id="@+id/smile_rating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"/>
+    
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/username"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="240dp"
+        android:hint="@string/name"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/likes"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="287dp"
+        android:hint="@string/like"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/dislikes"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="357dp"
+        android:hint="@string/dislike"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/feedback"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="430dp"
+        android:hint="@string/general"/>
+
+    <Button
+        android:id="@+id/buttonFeedback"
+        android:layout_width="278dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="570dp"
+        android:background="@drawable/button_bg_stroke"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_marginLeft="65dp"
+        android:onClick="feedbackSent"
+        android:text="@string/send_feedback" />
+
+</RelativeLayout>

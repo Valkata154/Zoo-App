@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/gradient_background_2"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="87dp"
+        android:text="@string/menu"
+        android:textColor="@android:color/black"
+        android:textSize="45sp" />
+
+    <Button
+        android:id="@+id/animalsButton"
+        android:layout_width="278dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/button_bg_stroke"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_marginLeft="65dp"
+        android:text="@string/animals" />
+
+    <Button
+        android:id="@+id/foodButton"
+        android:layout_width="278dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_bg_stroke"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_marginLeft="65dp"
+        android:text="@string/food_shop" />
+
+    <Button
+        android:id="@+id/contactButton"
+        android:layout_width="278dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_bg_stroke"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_marginLeft="65dp"
+        android:text="@string/contact_us" />
+
+    <Button
+        android:id="@+id/feedbackButton"
+        android:layout_width="278dp"
+        android:layout_height="71dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_bg_stroke"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:layout_marginLeft="65dp"
+        android:text="@string/rate_us" />
+
+</LinearLayout>

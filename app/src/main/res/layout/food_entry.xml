@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dip" >
+
+    <!-- Left Aligns the Place Image -->
+    <LinearLayout android:id="@+id/thumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip">
+
+        <ImageView
+            android:id="@+id/entry_food_icon"
+            android:layout_width="150dip"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:layout_height="150dip"
+            android:src="@drawable/tiger" />
+    </LinearLayout>
+
+    <!-- Place name -->
+    <TextView
+        android:id="@+id/entry_food_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/thumbnail"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:text="Canada"
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <!-- Arrow image, indicates to the user that clicking the item will do something -->
+    <ImageView
+        android:layout_width="31dp"
+        android:layout_height="34dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/add_button" />
+
+    <TextView
+        android:id="@+id/entry_food_description"
+        android:layout_width="195dp"
+        android:layout_height="85dp"
+        android:layout_alignTop="@+id/thumbnail"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:layout_marginTop="40dp"
+        android:textSize="16sp"
+        android:textStyle="italic"
+        android:textColor="@android:color/black"
+        android:text="Description" />
+
+    <TextView
+        android:id="@+id/entry_food_price"
+        android:layout_width="200dp"
+        android:layout_height="25dp"
+        android:layout_alignTop="@+id/thumbnail"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:layout_marginTop="125dp"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:text="Price" />
+</RelativeLayout>

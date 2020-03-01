@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Zoo App</string>
+    <string name="main_menu">ACTIVITIES</string>
+    <string name="menu">ACTIVITIES</string>
+    <string name="animals">VIEW OUR ANIMALS</string>
+    <string name="food_shop">ORDER FOOD</string>
+    <string name="contact_us">CONTACT THE ZOO</string>
+    <string name="rate_us">RATE THE APP</string>
+    <string name="tiger">Tiger</string>
+    <string name="wolf">Wolf</string>
+    <string name="eagle">Eagle</string>
+    <string name="elephant">Elephant</string>
+    <string name="gorilla">Gorilla</string>
+    <string name="cow">Cow</string>
+    <string name="hear_me">HEAR ME</string>
+    <string name="find_me">FIND ME</string>
+    <string name="donate">DONATE</string>
+    <string name="email">Email: 40399682@live.napier.ac.uk</string>
+    <string name="phone">Phone: +44 74 94 802 223</string>
+    <string name="address">Address: Cult, Varna Beach, Bulgaria, 9003</string>
+    <string name="cow_info">"Cattle, or cows, are the most common type of large domesticated ungulates. They are a prominent modern member of the subfamily Bovinae, are the most widespread species of the genus Bos, and are most commonly classified collectively as Bos taurus.\n""\n""Cattle are commonly raised as livestock for meat (beef or veal, see beef cattle), for milk (see dairy cattle), and for hides, which are used to make leather. They are used as riding animals and draft animals (oxen or bullocks, which pull carts, plows and other implements). Another product of cattle is dung, which can be used to create manure or fuel. In some regions, such as parts of India, cattle have significant religious meaning. Cattle, mostly small breeds such as the Miniature Zebu, are also kept as pets.\n""\n""The noun cattle (which is treated as a plural and has no singular) encompasses both sexes. The singular, cow, technically means the female, the male being bull. The plural form cows is sometimes used colloquially to refer to both sexes collectively, as e.g. in a herd, but that usage can be misleading as the speaker's intent may indeed be just the females. The bovine species per se is clearly dimorphic."</string>
+    <string name="gorilla_info">"Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central Sub-Saharan Africa. The genus Gorilla is divided into two species: the eastern gorillas and the western gorillas (both critically endangered), and either four or five subspecies. They are the largest living primates. The DNA of gorillas is highly similar to that of humans, from 95 to 99% depending on what is included, and they are the next closest living relatives to humans after the chimpanzees and bonobos.\n""\n""Gorillas' natural habitats cover tropical or subtropical forests in Sub-Saharan Africa. Although their range covers a small percentage of Sub-Saharan Africa, gorillas cover a wide range of elevations. The mountain gorilla inhabits the Albertine Rift montane cloud forests of the Virunga Volcanoes, ranging in altitude from 2,200 to 4,300 metres (7,200 to 14,100 ft). Lowland gorillas live in dense forests and lowland swamps and marshes as low as sea level, with western lowland gorillas living in Central West African countries and eastern lowland gorillas living in the Democratic Republic of the Congo near its border with Rwanda.\n""\n""The word \"gorilla\" comes from the history of Hanno the Navigator, (c. 500 BC) a Carthaginian explorer on an expedition on the west African coast to the area that later became Sierra Leone."</string>
+    <string name="elephant_info">"Elephants are mammals of the family Elephantidae and the largest existing land animals. Three species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant. Elephantidae is the only surviving family of the order Proboscidea; extinct members include the mastodons. The family Elephantidae also contains several now-extinct groups, including the mammoths and straight-tusked elephants. African elephants have larger ears and concave backs, whereas Asian elephants have smaller ears, and convex or level backs.\n""\n""Distinctive features of all elephants include a long trunk, tusks, large ear flaps, massive legs, and tough but sensitive skin. The trunk, also called a proboscis, is used for breathing, bringing food and water to the mouth, and grasping objects. Tusks, which are derived from the incisor teeth, serve both as weapons and as tools for moving objects and digging. The large ear flaps assist in maintaining a constant body temperature as well as in communication. The pillar-like legs carry their great weight.\n""\n""Elephants are scattered throughout sub-Saharan Africa, South Asia, and Southeast Asia and are found in different habitats, including savannahs, forests, deserts, and marshes. They are herbivorous, and they stay near water when it is accessible. They are considered to be keystone species, due to their impact on their environments. Other animals tend to keep their distance from elephants; the exception is their predators such as lions, tigers, hyenas, and wild dogs, which usually target only young elephants (calves)."</string>
+    <string name="eagle_info">"Eagles are large, powerfully built birds of prey, with heavy heads and beaks. Even the smallest eagles, such as the booted eagle (Aquila pennata), which is comparable in size to a common buzzard (Buteo buteo) or red-tailed hawk (B. jamaicensis), have relatively longer and more evenly broad wings, and more direct, faster flight – despite the reduced size of aerodynamic feathers. Most eagles are larger than any other raptors apart from some vultures. The smallest species of eagle is the South Nicobar serpent eagle (Spilornis klossi), at 450 g (0.99 lb) and 40 cm (16 in). The largest species are discussed below.\n""\n""Like all birds of prey, eagles have very large, hooked beaks for ripping flesh from their prey, strong, muscular legs, and powerful talons. The beak is typically heavier than that of most other birds of prey. Eagles' eyes are extremely powerful. It is estimated that the martial eagle, whose eye is more than twice as long as a human eye, has a visual acuity 3.0 to 3.6 times that of humans. This acuity enables eagles to spot potential prey from a very long distance. This keen eyesight is primarily attributed to their extremely large pupils which ensure minimal diffraction (scattering) of the incoming light. The female of all known species of eagles is larger than the male.\n"</string>
+    <string name="toast_warning">Click on an image to learn more about the animal!</string>
+    <string name="toast_donate">Thank you for donating 1$! We appreciate your help!</string>
+    <string name="tiger_info">"The tiger (Panthera tigris) is the largest species among the Felidae and classified in the genus Panthera. It is most recognisable for its dark vertical stripes on orangish-brown fur with a lighter underside. It is an apex predator, primarily preying on ungulates such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years, before they become independent and leave their mother's home range to establish their own.\n""\n""The tiger once ranged widely from the Eastern Anatolia Region in the west to the Amur River basin, and in the south from the foothills of the Himalayas to Bali in the Sunda islands. Since the early 20th century, tiger populations have lost at least 93% of their historic range and have been extirpated in Western and Central Asia, from the islands of Java and Bali, and in large areas of Southeast and South Asia and China.\n""\n""The tiger is among the most recognisable and popular of the world's charismatic megafauna. It featured prominently in ancient mythology and folklore and continues to be depicted in modern films and literature, appearing on many flags, coats of arms and as mascots for sporting teams. The tiger is the national animal of India, Bangladesh, Malaysia and South Korea."</string>
+    <string name="wolf_info">"The wolf (Canis lupus), also known as the gray wolf or grey wolf, is a large canine native to Eurasia and North America. It is the largest extant member of Canidae, with males averaging 40 kg (88 lb) and females 37 kg (82 lb). On average, wolves measure 105–160 cm (41–63 in) in length and 80–85 cm (31–33 in) at shoulder height. The wolf is also distinguished from other Canis species by its less pointed features, particularly the ears and muzzle. The wolf is nonetheless closely related enough to smaller Canis species, such as the coyote and the golden jackal, to produce fertile hybrids with them. The winter fur of a wolf is long and bushy and predominantly mottled gray, although nearly pure white, red and brown to black colours also occur. Up to 38 subspecies of wolf have been recognized including the domestic dog.\n""\n""The wolf is the most specialized member of the genus Canis for cooperative big game hunting, as demonstrated by its physical adaptations to tackling large prey, its more social nature, and its highly advanced expressive behaviour. It travels in nuclear families consisting of a mated pair accompanied by their offspring. Offspring may leave to form their packs on the onset of sexual maturity and in response to competition within the pack for food. Wolves are also territorial and fights over territory are among the principal causes of wolf mortality.\n""\n""The wolf is mainly a carnivore and feeds primarily on large wild hooved mammals, though it also eats smaller animals, livestock, carrion, and garbage. Single wolves or mated pairs typically have higher success rates in hunting than do large packs. Various pathogens and parasites may infect wolves, notably rabies."</string>
+
+
+
+
+    <string name="pizza">Pizza</string>
+    <string name="steak">Steak</string>
+    <string name="soup">Soup</string>
+    <string name="chickenRice">Chicken and rice</string>
+    <string name="fishChips">Fish and Chips</string>
+    <string name="sushi">Sushi</string>
+    <string name="sushiDesc">The best and tastiest sushi in the world, made by the best Japanese cook.</string>
+    <string name="fishChipsDesc">Just caught salmon with freshly baked potato chips, served with many sauces.</string>
+    <string name="chickenRiceDesc">Baked chicken with bbq sauce and rice made with teh freshest ingredients.</string>
+    <string name="soupDesc">Chicken soup, freshly made with carrots, potatoes, cucumbers, onions and garlic.</string>
+    <string name="steakDesc">Smoked, expensive steak. Served with mushrooms, broccoli, tomatoes and potatoes.</string>
+    <string name="pizzaDesc">Very tasty and stonebaked, with extra cheese, ham, chicken, mushrooms, cucumbers and pineapple.</string>
+    <string name="pizzaP">Price: 9.99£</string>
+    <string name="steakP">Price: 17.99£</string>
+    <string name="soupP">Price: 4.99£</string>
+    <string name="chickenRiceP">Price: 7.99£</string>
+    <string name="fishChipsP">Price: 11.99£</string>
+    <string name="sushiP">Price: 24.99£</string>
+    <string name="orderButton">SUBMIT ORDER</string>
+    <string name="total">Total</string>
+    <string name="orderToast1">You have successfully added </string>
+    <string name="orderToast2">to your order!</string>
+    <string name="orderTitle">Your order has been successfully submitted!</string>
+    <string name="orderMessage1">Your order is being prepared! It will take approximately 15 minutes. Please bring</string>
+    <string name="orderMessage2">£ in cash with you!</string>
+    <string name="okay">Okay</string>
+    <string name="dialogThanks">Thank you!</string>
+    <string name="dialogMessage">Thank you for your feedback! We appreciate it and will consider it in order to improve our application! Now you will be returned to the Activities Page!</string>
+
+
+    <string name="send_feedback">SEND FEEDBACK</string>
+    <string name="general">General Feedback and recommendations:</string>
+    <string name="dislike">What did you dislike about the app?</string>
+    <string name="like">What did you like about the app?</string>
+    <string name="name">Your Name:</string>
+
+
+</resources>
