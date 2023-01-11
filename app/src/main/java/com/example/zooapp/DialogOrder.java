@@ -18,7 +18,7 @@ public class DialogOrder extends AppCompatDialogFragment {
         // Create the dialog
         AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         builder.setTitle(getString(R.string.orderTitle))
-                            .setMessage(getString(R.string.orderMessage1) + " " + ActivityFoodShop.numPrice + " " + getString(R.string.orderMessage2))
+                            .setMessage(getString(R.string.orderMessage1) + " " + (Math.round(ActivityFoodShop.numPrice * 100.0) / 100.0) + " " + getString(R.string.orderMessage2))
                             .setPositiveButton(R.string.okay, new DialogInterface.OnClickListener(){
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
